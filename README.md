@@ -4,8 +4,8 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+AI+ML+DL;Python+%7C%7C+Java+%7C%7C+Data Science +%7C%7C;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="yrlmzmerve">
+  <img src="https://readme-typing-svg.herokuapp.com
+            color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="bambideveloper">
 </p>
 <hr/>
 
