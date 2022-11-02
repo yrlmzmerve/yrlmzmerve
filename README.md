@@ -2,10 +2,8 @@
 <!--
 **yrlmzmerve/yrlmzmerve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-           color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" >
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+ML+%26+DL)](https://git.io/typing-svg)
 </p>
 <hr/>
 
