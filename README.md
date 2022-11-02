@@ -2,6 +2,11 @@
 <!--
 **yrlmzmerve/yrlmzmerve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+AI+ML+DL;Python+%7C%7C+Java+%7C%7C+Data Science +%7C%7C;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="yrlmzmerve">
+</p>
+<hr/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
