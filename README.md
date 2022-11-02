@@ -3,8 +3,7 @@
 **yrlmzmerve/yrlmzmerve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&font=Fira+Code&pause=1000&width=435&lines=AI+%26+ML+%26+DL" alt="Typing SVG" />  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13B447&center=true&multiline=true&width=435&lines=AI+%7C%7C+ML+%7C%7C+DL;Data+Science+%7C%7C+Python+%7C%7C+Java" alt="Typing SVG" /></a>
 </p>
 <hr/>
 
